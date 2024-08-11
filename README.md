@@ -8,4 +8,3 @@ Theme: Restaurant Management Website
 * Admin
 * Normal User
 * Card system
-* 
