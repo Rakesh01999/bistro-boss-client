@@ -6,3 +6,4 @@ Theme: Restaurant Management Website
 # Website Including-
 *NavBar
 *Admin
+*Normal User
